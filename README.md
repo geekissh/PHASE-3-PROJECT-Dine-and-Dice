@@ -1,4 +1,4 @@
-# Slice and Dice 
+# Dine and Dice 
 
 ## Description
 
