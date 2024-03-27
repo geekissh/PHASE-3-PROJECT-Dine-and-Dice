@@ -2,7 +2,7 @@
 
 ## Description
 
-This CLI application is designed to facilitate ordering from Slice and Dice, a restaurant. Upon launching the project, users encounter a welcoming interface prompting them to input their name and phone number. Subsequently, they are presented with a menu featuring various options, such as placing an order, submitting a restaurant review, accessing review history, and viewing order history. To exit the application, users can select option #5, which leads them to a farewell screen, concluding the app session.
+This CLI application is designed to facilitate ordering from Dine and Dice, a restaurant. Upon launching the project, users encounter a welcoming interface prompting them to input their name and phone number. Subsequently, they are presented with a menu featuring various options, such as placing an order, submitting a restaurant review, accessing review history, and viewing order history. To exit the application, users can select option #5, which leads them to a farewell screen, concluding the app session.
 
 ---
 ## Setting it up
